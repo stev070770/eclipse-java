@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Jack
- *
- */
-module HelloWorld {
-}
